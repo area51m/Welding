@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: http://soyuz-metal.od.ua/sitemap.xml
